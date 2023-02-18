@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "features": [
-        {"type": "Feature", "id": 0, "geometry": {"type": "Point", "coordinates": [55.831903, 37.411961]}, "properties": {"iconContent": "Moscow", "hintContent": 'A custom placemark icon', "balloonContent": 'This is a pretty placemark'}
+        {"type": "Feature", "id": 0, "geometry": {"type": "Point", "coordinates": [55.831903, 37.411961]}, "properties": {"iconContent": "Moscow", "hintContent": 'A custom placemark icon', "balloonContent": 'This is a pretty placemark'}}
     ]
     
     
